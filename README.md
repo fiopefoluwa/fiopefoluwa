@@ -15,7 +15,7 @@
 
 Lagos, Nigeria · +234 812 254 4234
 
-*Building reliable software, thoughtful interfaces, and accessible digital experiences.*
+*I turn complex workflows into dependable software—from backend services and data flows to interfaces people can use with confidence.*
 
 </div>
 
@@ -23,61 +23,56 @@ Lagos, Nigeria · +234 812 254 4234
 
 ## About Me
 
-I'm **Orekoya Fiopefoluwa**, a Software Engineer and Computer Science student at the **University of Lagos**, focused on building practical full-stack products. I work across frontend experiences and backend systems—from responsive interfaces and real-time features to APIs, authentication, and data workflows.
+I'm **Orekoya Fiopefoluwa**, a Software Engineer and University of Lagos Computer Science student. I started with frontend development because I wanted to understand what makes digital products clear and easy to use. As I took on more complex projects, I moved across the stack—building APIs, data workflows, authentication, and real-time features alongside the interfaces they support.
 
-My recent work spans financial trading, real estate, health technology, e-commerce, and nonprofit projects. I enjoy turning complex product requirements into clear, reliable experiences and collaborating across the stack to bring ideas into production.
+I've worked on financial trading software, a real-estate marketplace, health technology, and e-commerce. I enjoy understanding the underlying problem, tracing how data and users move through a system, and shipping solutions that are useful, maintainable, and reliable.
 
 ---
 
 ## What I Build
 
-### 🚀 Production Systems & Applications
+### 🚀 Engineering Experience
 
-| Project | Role | Highlights |
+| Organization | Role | Selected Contributions |
 |---------|------|------------|
-| **Aristack Solutions** | Software Engineer | Built backend workflows for financial trading across Fixed Income and FX, including trade processing, EOD valuation, scheduling, and approvals. Also delivered the corporate website and improved Retail FX workflows. |
-| **ZENT** | Software Engineer | Built a full-stack real estate booking platform with property discovery, agent and admin portals, booking and escrow workflows, secure authentication, and real-time messaging. |
-| **New Age Charity** | Frontend Engineer | Developed an SEO-focused online store with live stock, local currency conversion, multi-step checkout, 360° product viewing, and an admin portal. |
-| **STEPHEN** | WordPress Developer | Launched a custom seven-page site with reusable dynamic widgets, editor-friendly content management, and a 96/100 Lighthouse score. |
-| **S.P.A.G** | Software Engineer | Built an accessible health-monitoring experience with conversational navigation and interactive health-data exploration. |
+| **Aristack Solutions** | Software Engineer | Built Java/Spring Boot workflows for Fixed Income and FX trade processing, end-of-day valuation, scheduling, and approvals; enhanced 10+ REST APIs and improved Retail FX and corporate website experiences. |
+| **ZENT** | Software Engineer | Delivered a full-stack real-estate booking platform with 25+ client-side routes, agent and admin portals, booking and escrow workflows, authentication, payments, and real-time messaging. |
+| **New Age Charity** | Frontend Engineer | Built a Next.js commerce experience with live inventory, currency conversion, multi-step checkout, 360° product viewing, and a Supabase-backed admin portal. |
+| **STEPHEN** | WordPress Developer | Launched a custom seven-page site with reusable dynamic widgets, editor-managed content, and a 96/100 Lighthouse score. |
 
 ---
 
 ### 🧪 Engineering Focus
 
-I care about building software that is:
-- **Reliable and secure** — thoughtful API design, authentication, authorization, and error handling
-- **Useful and accessible** — interfaces that help people complete real tasks
-- **Responsive and performant** — optimized for mobile devices and real-world conditions
-- **Maintainable** — reusable components, clear workflows, and well-structured systems
-- **Connected** — integrating real-time messaging, payments, analytics, and third-party services
+- **Backend engineering:** APIs, business workflows, data validation, background tasks, and safe reprocessing
+- **Frontend engineering:** responsive React and Next.js applications, reusable components, and accessible interactions
+- **Integrations:** authentication, OAuth, payments, identity verification, media uploads, and WebSockets
+- **Quality attributes:** security, maintainability, performance, usability, and clear error handling
 
 ---
 
-## Achievements
+## Selected Impact
 
-- Built and enhanced **10+ REST APIs** for pricing, trade valuation, reporting, product configuration, and background tasks at Aristack.
-- Refactored **three end-of-day valuation workflows**—Accrual, MTM, and Premium/Discount Amortization—to support independent execution and safer reprocessing.
-- Delivered a real-estate marketplace with **25+ client-side routes** for property discovery, agent onboarding, tours, bookings, and messaging.
-- Achieved a **96/100 Lighthouse score** for the STEPHEN WordPress site.
-- Mentored **100+ developers** through ECX Unilag, with **60%** progressing to internships or software projects.
-- Guided **120+ participants** through the 14-Day Code Challenge, achieving a **100% project completion rate**.
-- Contributed to **15% follower growth** and **25% higher engagement** through GDGLagos25 content.
+- Built and enhanced **10+ REST APIs** for FX pricing, trade valuation, reporting, product configuration, and background tasks.
+- Refactored **three end-of-day valuation workflows**—Accrual, MTM, and Premium/Discount Amortization—to enable independent execution and safer reprocessing.
+- Delivered **25+ routes** for property discovery, agent onboarding, tours, bookings, and real-time messaging.
+- Achieved a **96/100 Lighthouse score** on a custom WordPress site.
+- Mentored **100+ developers** through ECX Unilag; **60%** progressed to internships or software projects.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages**  
 Java • JavaScript • TypeScript • Python • Go • SQL • HTML • CSS
 
-**Frontend**  
-React • Next.js • Tailwind CSS • Redux • GSAP • Framer Motion • React Spring • Three.js
-
 **Backend & APIs**  
 Spring Boot • FastAPI • REST APIs • WebSockets • JWT • OAuth 2.0 • Hibernate • JPA
 
-**Data & Infrastructure**  
+**Frontend**  
+React • Next.js • Vite • Tailwind CSS • Redux • GSAP • Framer Motion • React Spring • Three.js
+
+**Databases & Infrastructure**  
 PostgreSQL • Redis • Supabase • Docker • Cloudinary
 
 **Tools & Platforms**  
@@ -90,59 +85,41 @@ Git • GitHub • Vercel • Render • Figma • WordPress • ACF Pro
 ### University of Lagos (UNILAG)
 **B.Sc. Computer Science** · Expected June 2028  
 **CGPA:** 4.22/5.00  
-**Relevant coursework:** Data Structures & Algorithms, System Design and Analysis, Operating Systems, Calculus
+**Relevant coursework:** Data Structures and Algorithms, System Design and Analysis, Operating Systems, Calculus
 
 ---
 
 ## Featured Work
 
 ### Aristack Financial Trading Platform
-*Backend workflows and product experiences for treasury and FX operations*
+*Engineering operational workflows for treasury and FX teams*
 
 **Tech:** Java, Spring Boot, Hibernate, JPA, PostgreSQL, Redis
 
-**Highlights:**
-- Built workflows supporting trade processing, end-of-day valuation, scheduling, and approvals across Fixed Income and FX.
-- Developed and enhanced APIs for FX pricing, trade valuation, reporting, product configuration, and background task management.
-- Improved valuation reprocessing so individual workflows can run without unintended reversals of prior valuation states.
-- Built the Aristack corporate website and integrated APIs into Retail FX workflows.
+- Built workflows for trade processing, end-of-day valuation, scheduling, and approvals across Fixed Income and FX.
+- Developed APIs for pricing, valuation, reporting, product configuration, and background tasks.
+- Updated valuation reprocessing to preserve prior states and prevent unintended reversals.
 
 ---
 
 ### ZENT Real Estate Marketplace
-*Property discovery, bookings, and connected agent tools*
+*Connecting property discovery, booking, and agent operations*
 
 **Tech:** React, TypeScript, Vite, Tailwind CSS, FastAPI, WebSockets, Paystack
 
-**Highlights:**
-- Delivered 25+ client-side routes for property search, tour scheduling, booking management, and real-time messaging.
-- Built agent tools for property listings, revenue analytics, wallet and escrow management, and media uploads.
-- Implemented JWT authentication, token refresh, Google and Apple OAuth, OTP verification, and role-based workflows.
-- Integrated Paystack payments and Dojah identity verification.
+- Built 25+ routes for property search, tour scheduling, booking management, and messaging.
+- Implemented JWT authentication, silent token refresh, Google/Apple OAuth, OTP, and role-based workflows.
+- Developed agent tools for listings, revenue analytics, escrow, media uploads, and payments.
 
 ---
 
 ### S.P.A.G Health Platform
-*Accessible health monitoring and interactive data exploration*
+*Making health information easier to explore and access*
 
 **Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, React Spring, Three.js
 
-**Highlights:**
-- Built the platform's core frontend, visualization, navigation, and accessibility modules.
-- Created **VoiceNavigator** for conversational, voice-enabled access to health information.
-- Developed **GlobalHealthMap** and interactive filters for exploring health metrics and biological monitoring data.
-
----
-
-### New Age Charity Store
-*An accessible, content-managed shopping experience for a charitable cause*
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, Three.js, Supabase
-
-**Highlights:**
-- Built an SEO-optimized store with live inventory, local currency conversion, and multi-step checkout.
-- Created a 360° product viewer and campaign-based visual themes.
-- Developed an admin portal for product variants, stock alerts, orders, discounts, and charity events.
+- Built core frontend, data visualization, navigation, and accessibility modules.
+- Created **VoiceNavigator** for voice-enabled access and **GlobalHealthMap** for interactive exploration of health metrics.
 
 ---
 
@@ -151,9 +128,9 @@ Git • GitHub • Vercel • Render • Figma • WordPress • ACF Pro
 | Role | Organization | Impact |
 |------|--------------|--------|
 | **Training Team Lead & Frontend Tutor** | ECX Unilag | Mentored 100+ developers; 60% progressed to internships or software projects. |
-| **Development Team Member** | GDGoC Unilag | Built registration forms and internal tools; contributed to website design and usability. |
-| **Content Team Member** | GDG Lagos | Helped grow the community's follower base by 15% and engagement by 25% during GDGLagos25. |
-| **Technical Mentor** | 14-Day Code Challenge | Guided 120+ participants to a 100% project completion rate. |
+| **Development Team Member** | GDGoC Unilag | Built registration forms and internal tools; contributed to website usability. |
+| **Content Team Member** | GDG Lagos | Contributed to 15% follower growth and 25% higher engagement during GDGLagos25. |
+| **Technical Mentor** | 14-Day Code Challenge | Guided 120+ participants; achieved a 100% project completion rate. |
 | **Panel Speaker** | APWEN | Delivered a technology career talk to 150+ aspiring female engineers. |
 | **Hackathon Finalist** | Cavista Hackathon | Built and presented a software solution that advanced to the finals. |
 
@@ -161,11 +138,7 @@ Git • GitHub • Vercel • Render • Figma • WordPress • ACF Pro
 
 ## What I'm Looking For
 
-I'm open to:
-- 🚀 **Software engineering opportunities** across full-stack and frontend development
-- 🤝 **Collaborating with thoughtful teams** building useful, reliable products
-- 🏢 **Product-focused environments** where I can learn, contribute, and grow
-- 👥 **Mentoring and community work** that supports the next generation of developers
+I'm open to **software engineering opportunities** in backend, frontend, or full-stack development—especially with teams solving meaningful problems through dependable, user-focused products. I'm excited to bring curiosity, ownership, and a strong engineering foundation while continuing to grow as a developer.
 
 ---
 
