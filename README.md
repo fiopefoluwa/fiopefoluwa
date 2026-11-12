@@ -1,8 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Orekoya%20Fiopefoluwa&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Backend&descSize=18&descAlignY=58)
-
-</div>
 
 <div align="center">
 
@@ -15,7 +11,7 @@
 
 Lagos, Nigeria · +234 812 254 4234
 
-*I turn complex workflows into dependable software—from backend services and data flows to interfaces people can use with confidence.*
+*I turn complex workflows into dependable software from backend services and data flows to interfaces people can use with confidence.*
 
 </div>
 
