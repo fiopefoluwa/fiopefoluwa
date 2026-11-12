@@ -83,8 +83,7 @@ Git • GitHub • Vercel • Render • Figma • WordPress • ACF Pro
 ## Education
 
 ### University of Lagos (UNILAG)
-**B.Sc. Computer Science** · Expected June 2028  
-**CGPA:** 4.22/5.00  
+**B.Sc. Computer Science**  
 **Relevant coursework:** Data Structures and Algorithms, System Design and Analysis, Operating Systems, Calculus
 
 ---
