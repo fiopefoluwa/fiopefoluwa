@@ -1,19 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Orekoya%20Fiopefoluwa&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Performance%20Obsessive&descAlignY=56&descColor=e0e0e0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Orekoya%20Fiopefoluwa&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Backend&descSize=18&descAlignY=58)
 
 </div>
 
 <div align="center">
 
-### Lead Frontend Engineer&nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; UI/UX
+### Software Engineer&nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orekoya%20Fiopefoluwa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiopefoluwaorekoya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-one-flax.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-fiopefoluwaorekoya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fiopefoluwaorekoya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Fiopefoluwa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fiopefoluwa)
 
-*"Every pixel matters. Every millisecond counts. Build for the user, not the brief"*
+Lagos, Nigeria · +234 812 254 4234
+
+*Building reliable software, thoughtful interfaces, and accessible digital experiences.*
 
 </div>
 
@@ -21,23 +23,9 @@
 
 ## About Me
 
-I am **Orekoya Fiopefoluwa** a frontend engineer who believes that **performance is a feature**, not an afterthought.
+I'm **Orekoya Fiopefoluwa**, a Software Engineer and Computer Science student at the **University of Lagos**, focused on building practical full-stack products. I work across frontend experiences and backend systems—from responsive interfaces and real-time features to APIs, authentication, and data workflows.
 
-I started building web experiences because I wanted to understand why some sites felt *fast* and others felt *slow*.
-
-That obsession with performance, paired with a passion for accessible design, evolved into what I do today architecting frontend systems that don't just look good, but **feel right**.
-
-Over the past few years, I've shipped:
-- **Production applications** across healthcare, e-commerce, and educational tech
-- **High-performance frontends** consistently achieving **100/100 Lighthouse scores**
-- **Accessible systems** making technology usable for everyone, including visually impaired users
-- **User-centric platforms** that drove 50+ user sessions, 80%+ engagement metrics, and 25–40% conversion improvements
-
-I believe:
-- **Design without performance is theater**
-- **Accessibility is a feature, not a checkbox**
-- **Consistency beats complexity**
-- **Users feel speed before they see it**
+My recent work spans financial trading, real estate, health technology, e-commerce, and nonprofit projects. I enjoy turning complex product requirements into clear, reliable experiences and collaborating across the stack to bring ideas into production.
 
 ---
 
@@ -45,117 +33,116 @@ I believe:
 
 ### 🚀 Production Systems & Applications
 
-| Project | Role | Impact |
-|---------|------|--------|
-| **SPAG Health Platform** | Lead Frontend Engineer | Architected Next.js 16 + React 19 core application. Engineered VoiceNavigator (accessibility) and GlobalHealthMap components driving 80%+ user engagement. Achieved 100/100 Google Lighthouse score across all metrics. |
-| **Rave Consultancy Website** | Lead Frontend Engineer | Reduced time-to-market by 30%. Delivered 8 core page templates on schedule. Generated 50+ student inquiries in Q1 through optimized CTAs and forms. 100/100 mobile Lighthouse score. |
-| **Unbothered Legacy (E-commerce)** | Lead Frontend Engineer | Increased completed purchases by 25% through streamlined checkout. Implemented real-time cart calculation reducing user friction. Multi-channel order system (WhatsApp, Instagram, Email) captured 15% additional sales. |
-| **Beyonde4walls** | Lead Frontend Engineer | High-performance landing page with 95+ Lighthouse score. Improved SEO ranking and increased organic traffic by 20%. Modular TypeScript component system reduced runtime errors by 40%. |
-| **KRUBBS Fashion Platform** | Frontend Engineer | Full UI/UX overhaul with Next.js. 30% increase in user engagement. Multi-tenant platform for fashion brands with 40% conversion improvement. Dynamic product customization with SSR reduced load times by 35%. |
-| **PrimeDiscount Find** | Frontend Engineer | Core Web Vitals optimization decreased load time by 50%. Improved mobile conversion rates through real-time search and filtering. Reusable Figma design system ensuring pixel-perfect consistency. |
+| Project | Role | Highlights |
+|---------|------|------------|
+| **Aristack Solutions** | Software Engineer | Built backend workflows for financial trading across Fixed Income and FX, including trade processing, EOD valuation, scheduling, and approvals. Also delivered the corporate website and improved Retail FX workflows. |
+| **ZENT** | Software Engineer | Built a full-stack real estate booking platform with property discovery, agent and admin portals, booking and escrow workflows, secure authentication, and real-time messaging. |
+| **New Age Charity** | Frontend Engineer | Developed an SEO-focused online store with live stock, local currency conversion, multi-step checkout, 360° product viewing, and an admin portal. |
+| **STEPHEN** | WordPress Developer | Launched a custom seven-page site with reusable dynamic widgets, editor-friendly content management, and a 96/100 Lighthouse score. |
+| **S.P.A.G** | Software Engineer | Built an accessible health-monitoring experience with conversational navigation and interactive health-data exploration. |
 
 ---
 
-### 🧪 Performance & Accessibility Focus
+### 🧪 Engineering Focus
 
-Every application I build prioritizes:
-- **Sub-second load times** (Core Web Vitals optimization)
-- **Full accessibility** (WCAG compliance, screen reader support, keyboard navigation)
--  **100% responsive design** (mobile-first approach)
--  **Motion & interactivity** (Framer Motion, React Spring, Three.js)
--  **User engagement metrics** (real-world impact tracking)
+I care about building software that is:
+- **Reliable and secure** — thoughtful API design, authentication, authorization, and error handling
+- **Useful and accessible** — interfaces that help people complete real tasks
+- **Responsive and performant** — optimized for mobile devices and real-world conditions
+- **Maintainable** — reusable components, clear workflows, and well-structured systems
+- **Connected** — integrating real-time messaging, payments, analytics, and third-party services
 
 ---
 
 ## Achievements
 
--  Architected **6+ production applications** across healthcare, e-commerce, and edtech
-- Consistently delivered **100/100 Google Lighthouse scores** on mobile performance
-- Drove **25–40% conversion improvements** through UI/UX optimization
-- Generated **50+ direct user sessions** through accessible interface design
-- Built **modular component systems** reducing development time by 30–40%
-- Implemented **accessibility-first features** (VoiceNavigator, voice commands, keyboard navigation)
--  **Mentored 100+ developers** as Training Team Lead (ECX Unilag) with 60% securing internships
--  **Panel Speaker** at APWEN delivering career talks to 120+ aspiring engineers
-- **Community Builder** — grew GDG Lagos follower base by 15%, engagement by 25%
+- Built and enhanced **10+ REST APIs** for pricing, trade valuation, reporting, product configuration, and background tasks at Aristack.
+- Refactored **three end-of-day valuation workflows**—Accrual, MTM, and Premium/Discount Amortization—to support independent execution and safer reprocessing.
+- Delivered a real-estate marketplace with **25+ client-side routes** for property discovery, agent onboarding, tours, bookings, and messaging.
+- Achieved a **96/100 Lighthouse score** for the STEPHEN WordPress site.
+- Mentored **100+ developers** through ECX Unilag, with **60%** progressing to internships or software projects.
+- Guided **120+ participants** through the 14-Day Code Challenge, achieving a **100% project completion rate**.
+- Contributed to **15% follower growth** and **25% higher engagement** through GDGLagos25 content.
 
 ---
 
 ## Tech Stack
 
-**Frontend Mastery**  
-React • React Native • Next.js • TypeScript • JavaScript • TailwindCSS • Tailwind CSS 4
+**Languages**  
+Java • JavaScript • TypeScript • Python • Go • SQL • HTML • CSS
 
-**Performance & Animation**  
-Framer Motion • React Spring • Web Performance APIs • Core Web Vitals
+**Frontend**  
+React • Next.js • Tailwind CSS • Redux • GSAP • Framer Motion • React Spring • Three.js
 
-**State & Data**  
-Redux • Context API • API Integration • Real-time Data Handling
+**Backend & APIs**  
+Spring Boot • FastAPI • REST APIs • WebSockets • JWT • OAuth 2.0 • Hibernate • JPA
 
-**Backend & Full-Stack**  
-Python • Node.js • RESTful APIs
+**Data & Infrastructure**  
+PostgreSQL • Redis • Supabase • Docker • Cloudinary
 
-**Design & Tools**  
-Figma • GitHub • Vercel • Render • Responsive Design • Design Systems
-
-**Specialization**  
-SEO Optimization • E-commerce • Healthcare Tech • Edtech
+**Tools & Platforms**  
+Git • GitHub • Vercel • Render • Figma • WordPress • ACF Pro
 
 ---
 
-## Highlights & Timeline
+## Education
 
-| Year | Achievement |
-|------|-------------|
-| 2025 | Lead Frontend at SPAG — 100/100 Lighthouse, accessible health platform |
-| 2025 | Shipped 6+ production applications with measurable user impact |
-| 2025 | 60% mentee success rate (internships/projects) as ECX Unilag Training Lead |
-| 2024 | Multi-tenant fashion platform (KRUBBS) — 40% conversion improvement |
-| 2024 | Full-stack developer deep dive across healthcare, edtech, e-commerce |
-| 2023 | Started lead frontend role — focus on performance and accessibility |
+### University of Lagos (UNILAG)
+**B.Sc. Computer Science** · Expected June 2028  
+**CGPA:** 4.22/5.00  
+**Relevant coursework:** Data Structures & Algorithms, System Design and Analysis, Operating Systems, Calculus
 
 ---
 
 ## Featured Work
 
-### SPAG Health Platform
-*Accessible health monitoring for everyone*
+### Aristack Financial Trading Platform
+*Backend workflows and product experiences for treasury and FX operations*
 
-**Tech:** Next.js 16, React 19, TailwindCSS 4, Framer Motion, Three.js (Fiber)
+**Tech:** Java, Spring Boot, Hibernate, JPA, PostgreSQL, Redis
 
 **Highlights:**
-- 100/100 Google Lighthouse score on all metrics
-- VoiceNavigator component for accessibility (voice commands, screen reader optimized)
--  GlobalHealthMap driving 80%+ user engagement post-launch
--  30% faster time-to-market vs. baseline
+- Built workflows supporting trade processing, end-of-day valuation, scheduling, and approvals across Fixed Income and FX.
+- Developed and enhanced APIs for FX pricing, trade valuation, reporting, product configuration, and background task management.
+- Improved valuation reprocessing so individual workflows can run without unintended reversals of prior valuation states.
+- Built the Aristack corporate website and integrated APIs into Retail FX workflows.
 
 ---
 
-### Unbothered Legacy E-commerce
-*Frictionless fashion shopping across multiple channels*
+### ZENT Real Estate Marketplace
+*Property discovery, bookings, and connected agent tools*
 
-**Tech:** React, TypeScript, TailwindCSS, Multi-channel Integration
+**Tech:** React, TypeScript, Vite, Tailwind CSS, FastAPI, WebSockets, Paystack
 
 **Highlights:**
--  25% increase in completed purchases
-- Dynamic cart with real-time calculations
-- Multi-channel orders (WhatsApp, Instagram, Email) — 15% additional sales
-- 95+ Lighthouse performance score
-- 100% mobile responsiveness
+- Delivered 25+ client-side routes for property search, tour scheduling, booking management, and real-time messaging.
+- Built agent tools for property listings, revenue analytics, wallet and escrow management, and media uploads.
+- Implemented JWT authentication, token refresh, Google and Apple OAuth, OTP verification, and role-based workflows.
+- Integrated Paystack payments and Dojah identity verification.
 
 ---
 
-### KRUBBS Multi-Tenant Fashion
-*Fashion brands meeting their customers*
+### S.P.A.G Health Platform
+*Accessible health monitoring and interactive data exploration*
 
-**Tech:** Next.js, React, TypeScript, SSR, TailwindCSS
+**Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, React Spring, Three.js
 
 **Highlights:**
-- 30% engagement increase post-UI/UX overhaul
-- 40% conversion improvement
-- 35% load time reduction (SSR optimization)
-- Dynamic product customization interface
-- Multi-tenant architecture for multiple brands
+- Built the platform's core frontend, visualization, navigation, and accessibility modules.
+- Created **VoiceNavigator** for conversational, voice-enabled access to health information.
+- Developed **GlobalHealthMap** and interactive filters for exploring health metrics and biological monitoring data.
+
+---
+
+### New Age Charity Store
+*An accessible, content-managed shopping experience for a charitable cause*
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, Three.js, Supabase
+
+**Highlights:**
+- Built an SEO-optimized store with live inventory, local currency conversion, and multi-step checkout.
+- Created a 360° product viewer and campaign-based visual themes.
+- Developed an admin portal for product variants, stock alerts, orders, discounts, and charity events.
 
 ---
 
@@ -163,22 +150,22 @@ SEO Optimization • E-commerce • Healthcare Tech • Edtech
 
 | Role | Organization | Impact |
 |------|--------------|--------|
-| **Training Team Lead & Frontend Tutor** | ECX Unilag | Mentored 100+ developers; 60% secured internships or projects |
-| **Development Team Member** | GDGoC Unilag | Built forms and tools streamlining registration |
-| **Content Team** | GDGLagos | Grew follower base by 15%; increased engagement by 25% (GDGLagos25) |
-| **Technical Mentor** | 14-Day Code Challenge | Guided 100+ participants to 100% project completion |
-| **Panel Speaker** | APWEN | Delivered career talk on tech to 120+ aspiring female engineers |
+| **Training Team Lead & Frontend Tutor** | ECX Unilag | Mentored 100+ developers; 60% progressed to internships or software projects. |
+| **Development Team Member** | GDGoC Unilag | Built registration forms and internal tools; contributed to website design and usability. |
+| **Content Team Member** | GDG Lagos | Helped grow the community's follower base by 15% and engagement by 25% during GDGLagos25. |
+| **Technical Mentor** | 14-Day Code Challenge | Guided 120+ participants to a 100% project completion rate. |
+| **Panel Speaker** | APWEN | Delivered a technology career talk to 150+ aspiring female engineers. |
+| **Hackathon Finalist** | Cavista Hackathon | Built and presented a software solution that advanced to the finals. |
 
 ---
 
 ## What I'm Looking For
 
 I'm open to:
-- 🚀 **Building frontend systems** at scale
-- 🤝 **Collaborating with strong engineers** who care about craft
-- 🏢 **Startup & technical opportunities** where product excellence matters
-- 👥 **Mentoring & community work** — helping the next generation
-- 🌍 **Remote-first positions** with mission-driven teams
+- 🚀 **Software engineering opportunities** across full-stack and frontend development
+- 🤝 **Collaborating with thoughtful teams** building useful, reliable products
+- 🏢 **Product-focused environments** where I can learn, contribute, and grow
+- 👥 **Mentoring and community work** that supports the next generation of developers
 
 ---
 
@@ -186,16 +173,16 @@ I'm open to:
 
 | Platform | Link |
 |----------|------|
-| **LinkedIn** |https://www.linkedin.com/in/fiopefoluwaorekoya/|
-| **GitHub** | https://github.com/fiopefoluwa |
-| **Email** | fiopefoluwaorekoya@gmail.com |
-| **Portfolio** | https://my-portfolio-one-flax.vercel.app/|
+| **LinkedIn** | [linkedin.com/in/fiopefoluwaorekoya](https://www.linkedin.com/in/fiopefoluwaorekoya/) |
+| **GitHub** | [github.com/fiopefoluwa](https://github.com/fiopefoluwa) |
+| **Email** | [fiopefoluwaorekoya@gmail.com](mailto:fiopefoluwaorekoya@gmail.com) |
+| **Portfolio** | [my-portfolio-one-flax.vercel.app](https://my-portfolio-one-flax.vercel.app/) |
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=140&section=footer&text=Frontend%20First&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Performance.%20Accessibility.%20User%20Experience.&descAlignY=85&descColor=e0e0e0)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=140&section=footer&text=Build%20With%20Purpose&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Reliable.%20Accessible.%20User-focused.&descAlignY=85)
 
 </div>
 
@@ -203,6 +190,6 @@ I'm open to:
 
 <div align="center">
 
-### Let's build something fast, accessible, and user-focused. 🚀
+### Let's build useful, reliable software together. 🚀
 
 </div>
